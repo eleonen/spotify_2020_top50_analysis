@@ -24,8 +24,8 @@ The analysis uses Python and can be reproduced or extended by following the setu
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TuringCollegeSubmissions/eleone-DS.v3.1.3.5
-   cd eleone-DS.v3.1.3.5
+   git clone https://github.com/Vixamon/Top_50_Spotify_2020
+   cd Top_50_Spotify_2020
    ```
 
 2. Set up a virtual environment and install dependencies using Poetry:
