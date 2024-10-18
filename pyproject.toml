@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "eleone-ds-v3-1-3-5"
+version = "0.1.0"
+description = "Dataset analysis for Spotify Top 50 Tracks of 2020"
+authors = ["Erikas Leonenka <e.leonenka@gmail.com>"]
+readme = "README.md"
+packages = [{include = "eleone_ds"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.3"
+ipykernel = "^6.29.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
