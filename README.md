@@ -102,4 +102,4 @@ poetry check
 - **Cross-Platform Comparison:** Comparing this dataset with similar datasets from other platforms, such as SoundCloud or YouTube Music, could help assess whether there are significant differences in music preferences among users of different streaming services.
 
 ## Contributors
-- [Erikas Leonenka](https://github.com/Vixamon)
+- [Erikas Leonenka](https://github.com/eleonen)
